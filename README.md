@@ -87,14 +87,21 @@ Because this is a Vite client application, `VITE_*` values are included in the b
 
 ## Screenshots
 
-Screenshots are not included in this repository yet.
+### Landing Page
 
-Suggested placeholders for a final submission:
+![Wanderly Landing Page](public/screenshot/Landing%20page.png)
 
-- `[Add homepage screenshot]`
-- `[Add destination explorer screenshot]`
-- `[Add destination detail and weather screenshot]`
-- `[Add AI planner and itinerary screenshot]`
+### Hero Section
+
+![Wanderly Hero Section](public/screenshot/hero%20section.png)
+
+### AI Travel Assistant
+
+![Wanderly AI Assistant](public/screenshot/ai%20agent.png)
+
+### AI-Generated Itinerary
+
+![Wanderly AI Itinerary](public/screenshot/itinerary.png)
 
 ## Assignment Requirements
 
